@@ -1,0 +1,15 @@
+c:\users\sandro\documents\visual studio 2010\Projects\Segmentation Ensemble\Segmentation Ensemble\bin\Debug\Segmentation Ensemble.exe
+c:\users\sandro\documents\visual studio 2010\Projects\Segmentation Ensemble\Segmentation Ensemble\bin\Debug\Segmentation Ensemble.pdb
+c:\users\sandro\documents\visual studio 2010\Projects\Segmentation Ensemble\Segmentation Ensemble\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sandro\documents\visual studio 2010\Projects\Segmentation Ensemble\Segmentation Ensemble\obj\x86\Debug\Segmentation Ensemble.exe
+c:\users\sandro\documents\visual studio 2010\Projects\Segmentation Ensemble\Segmentation Ensemble\obj\x86\Debug\Segmentation Ensemble.pdb
+C:\Users\svega\Desktop\Segmentation Ensemble\Segmentation Ensemble\obj\x86\Debug\Segmentation Ensemble.exe
+C:\Users\svega\Desktop\Segmentation Ensemble\Segmentation Ensemble\obj\x86\Debug\Segmentation Ensemble.pdb
+C:\Users\svega\Desktop\Segmentation Ensemble\Segmentation Ensemble\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\svega\Desktop\Segmentation Ensemble\Segmentation Ensemble\bin\Debug\Segmentation Ensemble.exe
+C:\Users\svega\Desktop\Segmentation Ensemble\Segmentation Ensemble\bin\Debug\Segmentation Ensemble.pdb
+C:\Users\Mijis\Desktop\Segmentation Ensemble\Segmentation Ensemble\bin\Debug\Segmentation Ensemble.exe
+C:\Users\Mijis\Desktop\Segmentation Ensemble\Segmentation Ensemble\bin\Debug\Segmentation Ensemble.pdb
+C:\Users\Mijis\Desktop\Segmentation Ensemble\Segmentation Ensemble\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mijis\Desktop\Segmentation Ensemble\Segmentation Ensemble\obj\x86\Debug\Segmentation Ensemble.exe
+C:\Users\Mijis\Desktop\Segmentation Ensemble\Segmentation Ensemble\obj\x86\Debug\Segmentation Ensemble.pdb
